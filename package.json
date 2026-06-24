@@ -1,0 +1,17 @@
+{
+  "name": "node-xhttp",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "author": "eooce",
+  "repository": "",
+  "license": "MIT",
+  "private": false,
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=7.0.0"
+  }
+}
